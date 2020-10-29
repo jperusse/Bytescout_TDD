@@ -9,7 +9,8 @@ class Calculator(object):
     """
 
     def add(self, a, b):
-        pass
+        return (a + b)
+        
 
 t = Test()
 ans = t.testfunc(1,2)
