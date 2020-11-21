@@ -11,7 +11,6 @@
             "program": "${file}",
             "console": "internalConsole",
             "stopOnEntry": true,
-            "cwd": "${workspaceFolder}"
         }
     ]
 }

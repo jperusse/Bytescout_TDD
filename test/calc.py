@@ -1,5 +1,4 @@
 import sys
-from my_module import Test
 
 
 class Calculator(object):
